@@ -1,3 +1,3 @@
   # Shivam Sarang Portfolio
 
-(https://shivammsarang-portfolio.netlify.app/)
+https://shivammsarang-portfolio.netlify.app/
